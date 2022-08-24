@@ -29,3 +29,5 @@ sudo apt-get -y install		\
 	librust-atk-dev		\
 	pkg-config
 
+cargo build
+
